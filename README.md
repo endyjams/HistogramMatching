@@ -1,2 +1,8 @@
-# HistogramMatching
-An Image Processing python program for Histogram Matching
+# Histogram Matching
+  - LaTex
+  - Histogram Equalization
+  - Numpy
+  - Skimage
+  - Matplotlib
+  - CDF (Cumulative Distribution Function)
+  - PDF (Probability Distribution Function)
